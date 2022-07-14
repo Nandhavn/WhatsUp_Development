@@ -1,0 +1,8 @@
+Xpath writing
+Testng annotations 
+Assert process
+Explicit and fluent wait 
+Exception handling
+Cucumber full concept
+API testing program 
+Postman scenario
